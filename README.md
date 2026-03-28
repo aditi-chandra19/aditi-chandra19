@@ -29,10 +29,49 @@
 ---
 
 ### ⚙️ My Tech Universe
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nodejs,express,mongodb,redux,git,github,firebase,docker&theme=light" />
+
+### 👩‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
 ---
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Cloud & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ## ☕ CafeFlow — My Signature Project
 
