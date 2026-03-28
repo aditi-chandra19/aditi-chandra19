@@ -59,8 +59,8 @@
 
 <p align="center">
   <a href="https://github.com/aditi-chandra19">GitHub</a> •
-  <a href="(https://www.linkedin.com/in/aditi-chandra-42a4b228b/)">LinkedIn</a> •
- <a href="(https://leetcode.com/u/aditichandra19/)">LeetCode</a> •
+  <a href="https://www.linkedin.com/in/aditi-chandra-42a4b228b/">LinkedIn</a> •
+ <a href="https://leetcode.com/u/aditichandra19/">LeetCode</a> •
   
 </p>
 
