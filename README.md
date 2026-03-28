@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditi Chandra</h1>
 
-<!--
-**aditi-chandra19/aditi-chandra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Problem+Solver;Building+CafeFlow&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">💻 Full Stack Developer | MERN | Problem Solver</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Consistent-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-red?style=for-the-badge" />
+</p>
+
+---
+
+### 🚀 About Me
+- 🎓 CSE Undergrad  
+- 💻 Full Stack Developer (MERN)  
+- 📊 DSA + Problem Solving  
+- 🔥 Currently building **CafeFlow**  
+- 📈 Focused on consistency & growth  
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,firebase" />
+</p>
+
+---
+
+### ☕ CafeFlow (Main Project)
+> Full-stack web application built using the MERN stack  
+
+- 🧾 Smart café management system  
+- 📦 Order tracking  
+- 📊 Admin dashboard  
+- ⚡ Clean UI/UX  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi-chandra19&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-chandra19&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/aditi-chandra19">GitHub</a> •
+  <a href="(https://www.linkedin.com/in/aditi-chandra-42a4b228b/)">LinkedIn</a> •
+ <a href="(https://leetcode.com/u/aditichandra19/)">LeetCode</a> •
+  
+</p>
+
+---
+
+⭐ *Consistency > Motivation*
