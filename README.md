@@ -14,7 +14,7 @@
    <img src="https://img.shields.io/badge/CafeFlow%20Builder-3B82F6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DSA%20Enthusiast-F59E0B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to%20Opportunities-DC2626?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CafeFlow%20Builder-3B82F6?style=for-the-badge" />
+ 
 </p>
 
 ---
