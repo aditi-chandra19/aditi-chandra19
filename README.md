@@ -9,10 +9,12 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Building-3B82F6?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-22C55E?style=for-the-badge&logo=book&logoColor=white" />
-  <img src="https://img.shields.io/badge/Consistency-F59E0B?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-E11D48?style=for-the-badge&logo=brain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-2563EB?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/MERN%20Developer-22C55E?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/CafeFlow%20Builder-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA%20Enthusiast-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-DC2626?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CafeFlow%20Builder-3B82F6?style=for-the-badge" />
 </p>
 
 ---
