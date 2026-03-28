@@ -9,10 +9,10 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Building-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Consistent-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Building-3B82F6?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-22C55E?style=for-the-badge&logo=book&logoColor=white" />
+  <img src="https://img.shields.io/badge/Consistency-F59E0B?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-E11D48?style=for-the-badge&logo=brain&logoColor=white" />
 </p>
 
 ---
@@ -26,31 +26,33 @@
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ My Tech Universe
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,express,mongodb,git,github,firebase" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nodejs,express,mongodb,redux,git,github,firebase,docker&theme=light" />
 </p>
-
 ---
 
-### ☕ CafeFlow (Main Project)
-> Full-stack web application built using the MERN stack  
+## ☕ CafeFlow — My Signature Project
 
-- 🧾 Smart café management system  
-- 📦 Order tracking  
-- 📊 Admin dashboard  
-- ⚡ Clean UI/UX  
+🚀 A full-stack MERN application designed to streamline café operations  
+
+✨ Features:
+- 📦 Real-time order management  
+- 📊 Smart admin dashboard  
+- 🔐 Secure authentication  
+- ⚡ Smooth and responsive UI  
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi-chandra19&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi-chandra19&show_icons=true&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-chandra19&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-chandra19&theme=gruvbox" />
 </p>
 
 ---
