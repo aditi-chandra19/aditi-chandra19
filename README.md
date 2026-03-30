@@ -88,11 +88,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi-chandra19&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-chandra19&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditi-chandra19&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-chandra19&theme=tokyonight" height="150"/>
 </p>
 
 ---
