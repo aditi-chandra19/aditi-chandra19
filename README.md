@@ -97,6 +97,14 @@
 
 ---
 
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aditichandra19?theme=dark&font=Baloo&ext=heatmap" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
