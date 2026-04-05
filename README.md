@@ -4,6 +4,16 @@
 
 </div>
 
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  >_ Initializing Aditi.exe ................ [ LOADED ✓ ]    ║
+║  >_ MERN Stack ............................ [ ARMED  ✓ ]    ║
+║  >_ DSA Mode .............................. [ ACTIVE ✓ ]    ║
+║  >_ CafeFlow & PawAssist .................. [ BREWING✓ ]    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -30,27 +40,18 @@
 
 ## ⚡ WHO AM I?
 
-```javascript
-// aditi.js
+Hey! I'm **Aditi** — a CSE undergrad who loves turning ideas into full-stack products. I build with the **MERN stack**, grind **DSA**, and care deeply about writing clean, purposeful code.
 
-const aditi = {
-  role              : "Full Stack Developer (MERN)",
-  degree            : "B.Tech — Computer Science & Engineering",
+Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssist** (an on-demand pet care app) — two projects I'm genuinely proud of.
 
-  currentlyBuilding : ["CafeFlow ☕", "PawAssist 🐾"],
-  currentlyLearning : ["System Design", "React Native"],
-
-  languages         : ["C++", "JavaScript", "Python", "Java", "C"],
-  stack             : ["MongoDB", "Express.js", "React", "Node.js"],
-
-  strengths         : ["DSA Problem Solving", "Clean UI", "API Design"],
-  openTo            : ["Internships", "Collaborations", "Open Source"],
-
-  mantra            : "Consistency > Motivation. Every. Single. Day.",
-};
-
-export default aditi; // → available for hire ✓
-```
+| | |
+|---|---|
+| 🎓 **Degree** | B.Tech — Computer Science & Engineering |
+| 💼 **Role** | Full Stack Developer (MERN) |
+| 🔨 **Building** | CafeFlow ☕ · PawAssist 🐾 |
+| 📖 **Learning** | System Design · React Native |
+| 🤝 **Open To** | Internships · Collabs · Open Source |
+| ⚡ **Mantra** | *Consistency > Motivation. Every single day.* |
 
 ---
 
@@ -168,7 +169,15 @@ STACK : MERN · React Native
 
 ---
 
+## 🏆 GITHUB TROPHIES
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aditi-chandra19&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" />
+
+</div>
+
+---
 
 ## 📈 CONTRIBUTION MATRIX
 
