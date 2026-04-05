@@ -29,10 +29,10 @@
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/aditi-chandra19?style=for-the-badge&logo=github&labelColor=0d1117&color=00d9ff)](https://github.com/aditi-chandra19)
-[![Profile Views](https://komarev.com/ghpvc/?username=aditi-chandra19&style=for-the-badge&color=00d9ff&labelColor=0d1117)](https://github.com/aditi-chandra19)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/aditi-chandra-42a4b228b/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/aditichandra19/)
+[![GitHub](https://img.shields.io/badge/GitHub-aditi--chandra19-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/aditi-chandra19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20Chandra-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/aditi-chandra-42a4b228b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-aditichandra19-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/u/aditichandra19/)
+[![Open To Work](https://img.shields.io/badge/Open%20To-Internships-22C55E?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/aditi-chandra-42a4b228b/)
 
 </div>
 
@@ -55,7 +55,19 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 ---
 
-## 🛠️ TECH ARSENAL
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=☕+Turning+caffeine+into+code+since+day+one...;🔥+Currently+brewing+CafeFlow+%26+PawAssist...;🧠+DSA+grind+never+stops...;🚀+Open+to+internships+%26+collaborations!" />
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,python,java,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark&perline=6" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
