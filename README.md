@@ -55,10 +55,6 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 ---
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=00D9FF&center=true&vCenter=true&width=700&lines=☕+Turning+caffeine+into+code+since+day+one...;🔥+Currently+brewing+CafeFlow+%26+PawAssist...;🧠+DSA+grind+never+stops...;🚀+Open+to+internships+%26+collaborations!" />
-</div>
-
 ---
 
 <div align="center">
