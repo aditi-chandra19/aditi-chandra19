@@ -1,11 +1,19 @@
-<h1 align="center">Aditi Chandra</h1>
+<h1 align="center">Hi, I'm Aditi Chandra ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;DSA+Problem+Solver;Building+CafeFlow+%26+PawAssist&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Enthusiast;DSA+Problem+Solver;Building+CafeFlow+%26+PawAssist&center=true&width=520&height=45&color=8B5CF6">
 </p>
 
 <p align="center">
-  <b>Full Stack Developer • MERN • Problem Solver</b>
+  <b>💻 Full Stack Developer | MERN | Problem Solver</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA-F59E0B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Builder-22C55E?style=flat-square"/>
 </p>
 
 ---
@@ -14,10 +22,10 @@
 
 <p align="center">
 🎓 CSE Undergraduate <br>
-💻 Full Stack Developer (MERN) <br>
+💻 MERN Developer <br>
 📊 DSA + Problem Solving <br>
 🔥 Building <b>CafeFlow</b> & <b>PawAssist</b> <br>
-📈 Focused on consistency & growth
+📈 Focused on growth & consistency
 </p>
 
 ---
@@ -25,70 +33,33 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,css" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,react" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,mongodb,mysql,git,vscode" />
 </p>
 
 ---
 
 ### 💼 Projects
 
-<table align="center">
-<tr>
-<td width="300px" align="center">
+<div align="center">
 
-<b>☕ CafeFlow</b>
+<b>☕ CafeFlow</b>  
+MERN-based café management system  
+📦 Orders • 📊 Dashboard • 🔐 Auth • ⚡ UI  
 
-<p>
-MERN-based café management system
-</p>
+<br><br>
 
-<p>
-📦 Real-time orders <br>
-📊 Admin dashboard <br>
-🔐 Authentication <br>
-⚡ Responsive UI
-</p>
+<b>🐾 PawAssist</b>  
+Pet care on-demand platform  
+🏥 Vet • ✂️ Grooming • 🚑 Emergency  
 
-</td>
-
-<td width="300px" align="center">
-
-<b>🐾 PawAssist</b>
-
-<p>
-Pet care on-demand platform
-</p>
-
-<p>
-🏥 Vet booking <br>
-✂️ Grooming <br>
-🚑 Emergency support
-</p>
-
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditi-chandra19&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-chandra19&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditi-chandra19&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -104,5 +75,5 @@ Pet care on-demand platform
 ---
 
 <p align="center">
-  <b>Consistency &gt; Motivation</b>
+  ⭐ <b>Consistency &gt; Motivation</b>
 </p>
