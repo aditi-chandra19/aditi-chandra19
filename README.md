@@ -40,24 +40,35 @@
 
 ## ⚡ WHO AM I?
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
+<div align="center">
 
 ```javascript
-const aditi = {
-  role       : "Full Stack Developer",
-  stack      : ["MongoDB", "Express", "React", "Node.js"],
-  focus      : ["CafeFlow ☕", "PawAssist 🐾"],
-  weapons    : ["C++", "JavaScript", "Python", "Java"],
-  passion    : "Building products that solve real problems",
-  superpower : "Turning caffeine → code → experiences",
-  mantra     : "Consistency > Motivation. Every. Single. Day.",
+/**
+ * @author   Aditi Chandra
+ * @version  2025.0
+ * @status   "Always building something"
+ */
 
+const aditi = {
+  role    : "Full Stack Developer (MERN)",
+  degree  : "B.Tech — Computer Science & Engineering",
+
+  currentlyBuilding : ["CafeFlow ☕", "PawAssist 🐾"],
   currentlyLearning : ["System Design", "React Native"],
-  openTo            : "Internships & Collaborations 🚀",
+
+  languages : ["C++", "JavaScript", "Python", "Java", "C"],
+  stack     : ["MongoDB", "Express.js", "React", "Node.js"],
+
+  strengths : ["DSA Problem Solving", "Clean UI", "API Design"],
+  openTo    : ["Internships 💼", "Collabs 🤝", "Open Source 🌍"],
+
+  mantra    : () => "Consistency > Motivation. Every. Single. Day. 🔥",
 };
+
+export default aditi; // → available for hire ✓
 ```
 
-<br clear="right"/>
+</div>
 
 ---
 
