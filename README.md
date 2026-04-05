@@ -4,16 +4,6 @@
 
 </div>
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  >_ Initializing Aditi.exe ................ [ LOADED ✓ ]    ║
-║  >_ MERN Stack ............................ [ ARMED  ✓ ]    ║
-║  >_ DSA Mode .............................. [ ACTIVE ✓ ]    ║
-║  >_ CafeFlow & PawAssist .................. [ BREWING✓ ]    ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
@@ -178,15 +168,7 @@ STACK : MERN · React Native
 
 ---
 
-## 🏆 GITHUB TROPHIES
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditi-chandra19&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" />
-
-</div>
-
----
 
 ## 📈 CONTRIBUTION MATRIX
 
