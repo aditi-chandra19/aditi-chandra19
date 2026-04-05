@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ADITI%20CHANDRA&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ADITI%20CHANDRA&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18&animation=twinkling" />
 
 </div>
 
@@ -169,21 +169,25 @@ STACK : MERN · React Native
 
 ---
 
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aditi-chandra19&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" />
-
-</div>
-
----
-
 ## 📈 CONTRIBUTION MATRIX
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditi-chandra19&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&area_color=00d9ff" />
+
+</div>
+
+---
+
+## 🐍 WATCH MY CONTRIBUTIONS GET EATEN
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditi-chandra19/aditi-chandra19/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditi-chandra19/aditi-chandra19/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/aditi-chandra19/aditi-chandra19/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
