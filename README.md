@@ -40,35 +40,27 @@
 
 ## ⚡ WHO AM I?
 
-<div align="center">
-
 ```javascript
-/**
- * @author   Aditi Chandra
- * @version  2025.0
- * @status   "Always building something"
- */
+// aditi.js
 
 const aditi = {
-  role    : "Full Stack Developer (MERN)",
-  degree  : "B.Tech — Computer Science & Engineering",
+  role              : "Full Stack Developer (MERN)",
+  degree            : "B.Tech — Computer Science & Engineering",
 
   currentlyBuilding : ["CafeFlow ☕", "PawAssist 🐾"],
   currentlyLearning : ["System Design", "React Native"],
 
-  languages : ["C++", "JavaScript", "Python", "Java", "C"],
-  stack     : ["MongoDB", "Express.js", "React", "Node.js"],
+  languages         : ["C++", "JavaScript", "Python", "Java", "C"],
+  stack             : ["MongoDB", "Express.js", "React", "Node.js"],
 
-  strengths : ["DSA Problem Solving", "Clean UI", "API Design"],
-  openTo    : ["Internships 💼", "Collabs 🤝", "Open Source 🌍"],
+  strengths         : ["DSA Problem Solving", "Clean UI", "API Design"],
+  openTo            : ["Internships", "Collaborations", "Open Source"],
 
-  mantra    : () => "Consistency > Motivation. Every. Single. Day. 🔥",
+  mantra            : "Consistency > Motivation. Every. Single. Day.",
 };
 
 export default aditi; // → available for hire ✓
 ```
-
-</div>
 
 ---
 
