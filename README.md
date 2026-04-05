@@ -63,7 +63,7 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,java,react,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark&perline=6" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,js,python,java,react,nodejs,express,mongodb,mysql,git,github,vscode&perline=6" />
 
 </div>
 
@@ -195,11 +195,7 @@ STACK : MERN · React Native
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditi-chandra19/aditi-chandra19/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditi-chandra19/aditi-chandra19/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/aditi-chandra19/aditi-chandra19/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
