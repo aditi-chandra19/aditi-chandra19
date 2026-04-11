@@ -103,8 +103,7 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/aditi-chandra19/CafeFlow/main/cafeflow-logo.png" height="55" alt="CafeFlow" />
-
+### ☕ CafeFlow
 > *"Where orders meet efficiency"*
 
 **A full-stack MERN café management system built to eliminate chaos from café operations.**
@@ -114,20 +113,18 @@ STATUS: 🟢 IN DEVELOPMENT
 STACK : MongoDB · Express · React · Node.js
 ```
 
-**What it does:**
 - 📦 Real-time order management
 - 📊 Smart admin analytics dashboard
 - 🔐 JWT-secured authentication
 - ⚡ Blazing-fast responsive UI
 
-[![Explore CafeFlow](https://img.shields.io/badge/Explore%20CafeFlow-View%20Repo-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/CafeFlow)
+[![Explore CafeFlow](https://img.shields.io/badge/View%20Repo-CafeFlow-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/CafeFlow)
 
 </td>
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/aditi-chandra19/PawAssist/main/pawassist-logo.png" height="55" alt="PawAssist" />
-
+### 🐾 PawAssist
 > *"Your pet's emergency button"*
 
 **An on-demand pet care platform — because pets deserve instant care, not appointment queues.**
@@ -137,13 +134,12 @@ STATUS: 🟡 IN MAKING
 STACK : MERN · React Native
 ```
 
-**What it does:**
 - 🏥 Instant vet appointment booking
 - ✂️ On-demand grooming services
 - 🚑 24/7 emergency pet support
 - 📍 Location-based service discovery
 
-[![Explore PawAssist](https://img.shields.io/badge/Explore%20PawAssist-View%20Repo-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/PawAssist)
+[![Explore PawAssist](https://img.shields.io/badge/View%20Repo-PawAssist-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/PawAssist)
 
 </td>
 
@@ -152,24 +148,22 @@ STACK : MERN · React Native
 
 <td width="50%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/aditi-chandra19/NeedHelp/main/needhelp-logo.png" height="55" alt="NeedHelp" />
-
+### 🆘 NeedHelp
 > *"Help is just a click away"*
 
-**A platform connecting people in need with those who can help — live and deployed.**
+**A platform connecting people in need with those who can help — live and deployed on Vercel.**
 
 ```
 STATUS: 🟢 LIVE
 LINK  : need-help-ten.vercel.app
 ```
 
-**What it does:**
 - 🤝 Connect helpers with people in need
-- 🌐 Live on Vercel
+- 🌐 Deployed & live on Vercel
 - ⚡ Fast, responsive web experience
 
-[![Visit NeedHelp](https://img.shields.io/badge/Visit%20NeedHelp-Live%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://need-help-ten.vercel.app)
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/NeedHelp)
+[![Live Site](https://img.shields.io/badge/Live%20Site-NeedHelp-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://need-help-ten.vercel.app)
+[![View Repo](https://img.shields.io/badge/View%20Repo-NeedHelp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/NeedHelp)
 
 </td>
 
