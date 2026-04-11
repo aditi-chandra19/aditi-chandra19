@@ -25,7 +25,7 @@
 
 ---
 
-## ⚡ WHO AM I?
+##  WHO AM I?
 
 Hey! I'm **Aditi** — a CSE undergrad who loves turning ideas into full-stack products. I build with the **MERN stack**, grind **DSA**, and care deeply about writing clean, purposeful code.
 
@@ -48,7 +48,7 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 ---
 
-## 🛠️ TECH ARSENAL
+##  TECH ARSENAL
 
 <div align="center">
 
@@ -94,7 +94,7 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 ---
 
-## 🔥 SIGNATURE PROJECTS
+##  SIGNATURE PROJECTS
 
 <div align="center">
 
@@ -179,7 +179,7 @@ LINK  : need-help-ten.vercel.app
 
 ---
 
-## 📊 GITHUB WRAPPED
+##  GITHUB WRAPPED
 
 <div align="center">
 
@@ -192,7 +192,7 @@ LINK  : need-help-ten.vercel.app
 
 ---
 
-## 🧠 LEETCODE BATTLEFIELD
+##  LEETCODE BATTLEFIELD
 
 <div align="center">
 
@@ -202,7 +202,7 @@ LINK  : need-help-ten.vercel.app
 
 ---
 
-## 📈 CONTRIBUTION MATRIX
+##  CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -222,7 +222,7 @@ LINK  : need-help-ten.vercel.app
 
 ---
 
-## 🤝 LET'S BUILD SOMETHING WILD
+##  LET'S BUILD SOMETHING WILD
 
 <div align="center">
 
