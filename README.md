@@ -96,31 +96,62 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 ## 🔥 SIGNATURE PROJECTS
 
-### ☕ CafeFlow &nbsp;·&nbsp; `IN DEVELOPMENT`
-> A full-stack MERN café management system — real-time orders, admin dashboard & JWT auth.
+<br/>
 
-`MongoDB` `Express.js` `React` `Node.js`
+**☕ CafeFlow** &nbsp;![Status](https://img.shields.io/badge/IN%20DEVELOPMENT-2563EB?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-CafeFlow-orange?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-chandra19/CafeFlow)
+A full-stack café management system built to bring order to café chaos. Handles everything from live order tracking to secure admin controls — built with the full MERN stack.
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+> 📦 Real-time order management &nbsp;·&nbsp; 📊 Admin analytics dashboard &nbsp;·&nbsp; 🔐 JWT Auth &nbsp;·&nbsp; ⚡ Responsive UI
+
+[![View Repo](https://img.shields.io/badge/GitHub-CafeFlow-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/CafeFlow)
+
+<br/>
 
 ---
 
-### 🐾 PawAssist &nbsp;·&nbsp; `IN MAKING`
-> An on-demand pet care platform — vet booking, grooming & emergency support.
+<br/>
 
-`MERN` `React Native`
+**🐾 PawAssist** &nbsp;![Status](https://img.shields.io/badge/IN%20MAKING-F59E0B?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-PawAssist-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-chandra19/PawAssist)
+An on-demand pet care app that makes vet visits, grooming, and emergencies as easy as tapping a button. Built for pet owners who need fast, reliable care — no queues, no stress.
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+
+> 🏥 Vet booking &nbsp;·&nbsp; ✂️ On-demand grooming &nbsp;·&nbsp; 🚑 Emergency support &nbsp;·&nbsp; 📍 Location-based discovery
+
+[![View Repo](https://img.shields.io/badge/GitHub-PawAssist-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/PawAssist)
+
+<br/>
 
 ---
 
-### 🆘 NeedHelp &nbsp;·&nbsp; `LIVE`
-> A platform connecting people in need with those ready to help — deployed on Vercel.
+<br/>
 
-`MongoDB` `Express.js` `React` `Node.js`
+**🆘 NeedHelp** &nbsp;![Status](https://img.shields.io/badge/LIVE-22C55E?style=flat-square&logo=vercel&logoColor=white)
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-need--help--ten.vercel.app-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://need-help-ten.vercel.app)
-[![View Repo](https://img.shields.io/badge/View%20Repo-NeedHelp-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-chandra19/NeedHelp)
+A community platform that bridges the gap between people who need help and those willing to give it. Live, deployed, and making a real difference.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+> 🤝 Community-driven help &nbsp;·&nbsp; 🌐 Live on Vercel &nbsp;·&nbsp; ⚡ Fast & responsive
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-need--help--ten.vercel.app-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://need-help-ten.vercel.app)
+[![View Repo](https://img.shields.io/badge/GitHub-NeedHelp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/NeedHelp)
+
+<br/>
 
 ---
 
