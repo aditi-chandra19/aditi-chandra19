@@ -96,83 +96,31 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 ## 🔥 SIGNATURE PROJECTS
 
-<div align="center">
+### ☕ CafeFlow &nbsp;·&nbsp; `IN DEVELOPMENT`
+> A full-stack MERN café management system — real-time orders, admin dashboard & JWT auth.
 
-<table>
-<tr>
+`MongoDB` `Express.js` `React` `Node.js`
 
-<td width="50%" valign="top" align="center">
+[![View Repo](https://img.shields.io/badge/View%20Repo-CafeFlow-orange?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-chandra19/CafeFlow)
 
-### ☕ CafeFlow
-> *"Where orders meet efficiency"*
+---
 
-**A full-stack MERN café management system built to eliminate chaos from café operations.**
+### 🐾 PawAssist &nbsp;·&nbsp; `IN MAKING`
+> An on-demand pet care platform — vet booking, grooming & emergency support.
 
-```
-STATUS: 🟢 IN DEVELOPMENT
-STACK : MongoDB · Express · React · Node.js
-```
+`MERN` `React Native`
 
-- 📦 Real-time order management
-- 📊 Smart admin analytics dashboard
-- 🔐 JWT-secured authentication
-- ⚡ Blazing-fast responsive UI
+[![View Repo](https://img.shields.io/badge/View%20Repo-PawAssist-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-chandra19/PawAssist)
 
-[![Explore CafeFlow](https://img.shields.io/badge/View%20Repo-CafeFlow-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/CafeFlow)
+---
 
-</td>
+### 🆘 NeedHelp &nbsp;·&nbsp; `LIVE`
+> A platform connecting people in need with those ready to help — deployed on Vercel.
 
-<td width="50%" valign="top" align="center">
+`MongoDB` `Express.js` `React` `Node.js`
 
-### 🐾 PawAssist
-> *"Your pet's emergency button"*
-
-**An on-demand pet care platform — because pets deserve instant care, not appointment queues.**
-
-```
-STATUS: 🟡 IN MAKING
-STACK : MERN · React Native
-```
-
-- 🏥 Instant vet appointment booking
-- ✂️ On-demand grooming services
-- 🚑 24/7 emergency pet support
-- 📍 Location-based service discovery
-
-[![Explore PawAssist](https://img.shields.io/badge/View%20Repo-PawAssist-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/PawAssist)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top" align="center">
-
-### 🆘 NeedHelp
-> *"Help is just a click away"*
-
-**A platform connecting people in need with those who can help — live and deployed on Vercel.**
-
-```
-STATUS: 🟢 LIVE
-LINK  : need-help-ten.vercel.app
-```
-
-- 🤝 Connect helpers with people in need
-- 🌐 Deployed & live on Vercel
-- ⚡ Fast, responsive web experience
-
-[![Live Site](https://img.shields.io/badge/Live%20Site-NeedHelp-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://need-help-ten.vercel.app)
-[![View Repo](https://img.shields.io/badge/View%20Repo-NeedHelp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/NeedHelp)
-
-</td>
-
-<td width="50%" valign="top"></td>
-
-</tr>
-</table>
-
-</div>
+[![Live Site](https://img.shields.io/badge/Live%20Site-need--help--ten.vercel.app-22C55E?style=flat-square&logo=vercel&logoColor=white)](https://need-help-ten.vercel.app)
+[![View Repo](https://img.shields.io/badge/View%20Repo-NeedHelp-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aditi-chandra19/NeedHelp)
 
 ---
 
