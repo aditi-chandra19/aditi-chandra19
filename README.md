@@ -25,7 +25,7 @@
 
 ---
 
-##  WHO AM I?
+## ⚡ WHO AM I?
 
 Hey! I'm **Aditi** — a CSE undergrad who loves turning ideas into full-stack products. I build with the **MERN stack**, grind **DSA**, and care deeply about writing clean, purposeful code.
 
@@ -48,7 +48,7 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 ---
 
-##  TECH ARSENAL
+## 🛠️ TECH ARSENAL
 
 <div align="center">
 
@@ -94,16 +94,17 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 
 ---
 
-##  SIGNATURE PROJECTS
+## 🔥 SIGNATURE PROJECTS
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### ☕ CafeFlow
+<img src="https://raw.githubusercontent.com/aditi-chandra19/CafeFlow/main/cafeflow-logo.png" height="55" alt="CafeFlow" />
+
 > *"Where orders meet efficiency"*
 
 **A full-stack MERN café management system built to eliminate chaos from café operations.**
@@ -119,13 +120,14 @@ STACK : MongoDB · Express · React · Node.js
 - 🔐 JWT-secured authentication
 - ⚡ Blazing-fast responsive UI
 
-[![Explore CafeFlow](https://img.shields.io/badge/Explore%20CafeFlow-☕%20View%20Repo-orange?style=for-the-badge)](https://github.com/aditi-chandra19/CafeFlow)
+[![Explore CafeFlow](https://img.shields.io/badge/Explore%20CafeFlow-View%20Repo-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/CafeFlow)
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🐾 PawAssist
+<img src="https://raw.githubusercontent.com/aditi-chandra19/PawAssist/main/pawassist-logo.png" height="55" alt="PawAssist" />
+
 > *"Your pet's emergency button"*
 
 **An on-demand pet care platform — because pets deserve instant care, not appointment queues.**
@@ -141,16 +143,17 @@ STACK : MERN · React Native
 - 🚑 24/7 emergency pet support
 - 📍 Location-based service discovery
 
-[![Explore PawAssist](https://img.shields.io/badge/Explore%20PawAssist-🐾%20View%20Repo-pink?style=for-the-badge)](https://github.com/aditi-chandra19/PawAssist)
+[![Explore PawAssist](https://img.shields.io/badge/Explore%20PawAssist-View%20Repo-pink?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/PawAssist)
 
 </td>
 
 </tr>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🆘 NeedHelp
+<img src="https://raw.githubusercontent.com/aditi-chandra19/NeedHelp/main/needhelp-logo.png" height="55" alt="NeedHelp" />
+
 > *"Help is just a click away"*
 
 **A platform connecting people in need with those who can help — live and deployed.**
@@ -165,7 +168,7 @@ LINK  : need-help-ten.vercel.app
 - 🌐 Live on Vercel
 - ⚡ Fast, responsive web experience
 
-[![Visit NeedHelp](https://img.shields.io/badge/Visit%20NeedHelp-🆘%20Live%20Site-blue?style=for-the-badge)](https://need-help-ten.vercel.app)
+[![Visit NeedHelp](https://img.shields.io/badge/Visit%20NeedHelp-Live%20Site-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://need-help-ten.vercel.app)
 [![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/NeedHelp)
 
 </td>
@@ -179,7 +182,7 @@ LINK  : need-help-ten.vercel.app
 
 ---
 
-##  GITHUB WRAPPED
+## 📊 GITHUB WRAPPED
 
 <div align="center">
 
@@ -192,7 +195,7 @@ LINK  : need-help-ten.vercel.app
 
 ---
 
-##  LEETCODE BATTLEFIELD
+## 🧠 LEETCODE BATTLEFIELD
 
 <div align="center">
 
@@ -202,7 +205,7 @@ LINK  : need-help-ten.vercel.app
 
 ---
 
-##  CONTRIBUTION MATRIX
+## 📈 CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -222,7 +225,7 @@ LINK  : need-help-ten.vercel.app
 
 ---
 
-##  LET'S BUILD SOMETHING WILD
+## 🤝 LET'S BUILD SOMETHING WILD
 
 <div align="center">
 
