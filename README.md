@@ -170,7 +170,27 @@ LINK  : need-help-ten.vercel.app
 
 </td>
 
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+
+### 👗 StyleAI
+> *"Your AI-powered personal fashion stylist"*
+
+**An AI stylist that builds outfits from your wardrobe and shops what's missing — across Amazon, Myntra & more.**
+
+```
+STATUS: 🟣 IN DEVELOPMENT
+STACK : MERN · Claude AI · React
+```
+
+**What it does:**
+- 🧠 AI outfit suggestions from your own wardrobe
+- 🛍️ Shops missing pieces on Amazon & Myntra
+- 📊 Wardrobe health score & style DNA insights
+- 🌦️ Weather-aware & occasion-based styling
+
+[![Explore StyleAI](https://img.shields.io/badge/Explore%20StyleAI-👗%20View%20Repo-8b5cf6?style=for-the-badge)](https://github.com/aditi-chandra19/styleAI)
+
+</td>
 
 </tr>
 </table>
