@@ -202,12 +202,9 @@ STACK : MERN · Claude AI · React
 ## 📊 GITHUB WRAPPED
 
 <div align="center">
-
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aditi-chandra19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&border_radius=12" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aditi-chandra19&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=12" height="165" />
-
+<img src="https://streak-stats.demolab.com/?user=aditi-chandra19&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=12" height="165" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aditi-chandra19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&border_radius=12" height="150" />
-
 </div>
 
 ---
