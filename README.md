@@ -35,7 +35,7 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 |---|---|
 | 🎓 **Degree** | B.Tech — Computer Science & Engineering |
 | 💼 **Role** | Full Stack Developer (MERN) |
-| 🔨 **Building** | CafeFlow ☕ · PawAssist 🐾 |
+| 🔨 **Building** | CafeFlow ☕ ·  |
 | 📖 **Learning** | System Design · React Native |
 | 🤝 **Open To** | Internships · Collabs · Open Source |
 | ⚡ **Mantra** | *Consistency > Motivation. Every single day.* |
@@ -131,7 +131,7 @@ STACK : MongoDB · Express · React · Node.js
 **An on-demand pet care platform — because pets deserve instant care, not appointment queues.**
 
 ```
-STATUS: 🟡 IN MAKING
+STATUS: 🟢 LIVE
 STACK : MERN · React Native
 ```
 
@@ -141,7 +141,9 @@ STACK : MERN · React Native
 - 🚑 24/7 emergency pet support
 - 📍 Location-based service discovery
 
-[![Explore PawAssist](https://img.shields.io/badge/Explore%20PawAssist-🐾%20View%20Repo-pink?style=for-the-badge)](https://github.com/aditi-chandra19/PawAssist)
+
+[![Live Site](https://img.shields.io/badge/Live%20Site-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://paw-assist.vercel.app)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditi-chandra19/PawAssist)
 
 </td>
 
