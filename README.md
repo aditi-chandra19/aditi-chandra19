@@ -35,7 +35,7 @@ Right now I'm deep in building **CafeFlow** (a café ops platform) and **PawAssi
 |---|---|
 | 🎓 **Degree** | B.Tech — Computer Science & Engineering |
 | 💼 **Role** | Full Stack Developer (MERN) |
-| 🔨 **Building** | CafeFlow ☕ ·  |
+| 🔨 **Building** | CafeFlow ☕ · 👗 StyleAI |
 | 📖 **Learning** | System Design · React Native |
 | 🤝 **Open To** | Internships · Collabs · Open Source |
 | ⚡ **Mantra** | *Consistency > Motivation. Every single day.* |
